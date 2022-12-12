@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Yujin</title>
+	<link rel="stylesheet" type="text/css" href="style 2.css">
+</head>
+<link rel="icon" type="image/png" sizes="16x16" href="LogoYujin-removebg-preview.png">
+<body>
+
+<nav>
+  <ul>
+    <li class="deroulant"><a href="#">Evénements et séries de quêtes &ensp;</a>
+      <ul class="sous">
+        <li><a href="Evénement Automnal 2022.html">Evénement Automnal 2022</a></li>
+        <li><a href="Halloween 2022.html">Halloween 2022</a></li>
+        <li><a href="Evénement Hivernal 2022.html">Evénement Hivernal 2022</a></li>
+      </ul>
+    </li>
+    <li class="deroulant"><a href="#">Journal de Yujin &ensp;</a>
+      <ul class="sous">
+        <li><a href="#">CBG-Saison #29</a></li>
+        <li><a href="#">Je sais pas</a></li>
+        <li><a href="#">Idem</a></li>
+      </ul>
+    </li>
+    <li><a href="mailto:augagneurantonin@gmail.com>augagneurantonin@gmail.com"> Contact</a></li>
+    <li class="deroulant"><a href="#">Liens Utiles &ensp;</a>
+    	<ul class="sous">
+    		<li><a target="_blank" href="https://fr0.forgeofempires.com/">Forge Of Empires</a></li><li><a target="_blank" href="https://fr.wiki.forgeofempires.com/index.php?title=Accueil">Wiki FR</a></li>
+    		<li><a target="_blank" href="https://support.innogames.com/landing/forgeofempires/fr">Assistance</a></li>
+    		<li><a target="_blank" href="https://foe.tools/fr/">Foe Tools</a></li>
+    		<li><a target="_blank" href="https://foe-data.ovh//">Foe Data</a></li>
+    		<li><a target="_blank" href="https://foe.scoredb.io/Worlds">Scoredb</a></li>
+     	</ul>
+    <li><a href="A propos.html">A propos</a></li>
+    </li>
+	</ul>
+</nav>
+</head>
+ 
+<body>
+
+<br><br><br><br>
+
+<div class="box">
+	<h1 style="color: green"><center><b>Yujin</b></center></h1>
+	<h2><center>Une Guilde organisée</center></h2><div class="conteneur">
+	<br><br><br><br><br>
+	<h3><center>Yujin, guilde organisée avec de l'entraide et de l'efficacité !<br><br>Vous êtes actifs ou même très actifs ? Ralliez notre bannière et battez vous à nos côtés ! <br><br><br>Recrutement de guerriers pour CDB uniquement. <br>Envoyez votre candidature à un fondateur. <br><br><br>Boost P1 à 2.0.</center></h3>
+
+		<center><div class="conteneur">
+  		<div class="d2"></div>
+		</div></center>
+
+	<h2>Yujin, Guilde axée sur le CDB</h2>
+
+	<h3>Yujin a à coeur de réaliser d'excellentes performances en CDB (Champs de Batailles) comme le prouvent nos résultats avec actuellement 25 saisons gagnées sur 28 disputées, nous classant Premiers du serveur avec un tel taux de réussite. Photo à l'appui :</h3>
+
+	<img src="Saisons CBG.png">
+
+</div>
+
+
+
+	</body>
+</html>
